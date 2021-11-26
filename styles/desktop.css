@@ -23,6 +23,9 @@ header h1 a:hover {
 .burger {
   display: none;
 }
+nav {
+  display: block;
+}
 nav li a:hover {
   color: #7e8aa2;
 }
